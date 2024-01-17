@@ -1,1 +1,7 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="{VS#_.1x~al!@?sREN6{" x="20" y="20"><statement name="HANDLER"><block type="basic_show_icon" id="2Gb8O5*`3?GaYElSa^YS"><field name="i">IconNames.Heart</field></block></statement></block><block type="device_forever" id="%bJuCEQfLNSzPP9z1vf," x="256" y="20"></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="{VS#_.1x~al!@?sREN6{" x="0" y="0"><statement name="HANDLER"><block type="basic_show_icon" id="2Gb8O5*`3?GaYElSa^YS"><field name="i">IconNames.Heart</field><next><block type="device_pause" id="PR?UqM46]xvds6.T@},/"><value name="pause"><shadow type="timePicker" id="^r|fMiz8L4+`Jo.H}W~e"><field name="ms">100</field></shadow></value></block></next></block></statement></block><block type="device_forever" id="%bJuCEQfLNSzPP9z1vf," x="236" y="0"><statement name="HANDLER"><block type="controls_repeat_ext" id="Y8`];c_nio[+VbNb3i=c"><value name="TIMES"><shadow type="math_whole_number" id="ISDe(aN2PX8U$nc6bx?j"><field name="NUM">4</field></shadow></value><statement name="DO"><block type="device_show_leds" id="$Nu7nc)Q|}:?[:55O.qG"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></statement></block></statement></block></xml>

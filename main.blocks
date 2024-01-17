@@ -1,1 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="{VS#_.1x~al!@?sREN6{" x="20" y="20"><statement name="HANDLER"><block type="basic_show_icon" id="2Gb8O5*`3?GaYElSa^YS"><field name="i">IconNames.Heart</field></block></statement></block><block type="device_forever" id="%bJuCEQfLNSzPP9z1vf," x="256" y="20"></block></xml>
